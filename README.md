@@ -17,7 +17,6 @@
 
   [license]: https://github.com/KyleKryst/Team-Builder/blob/main/README.md#license
 
-
   [Tests][tests]
 
   [tests]: https://github.com/KyleKryst/Team-Builder/blob/main/README.md#tests
@@ -31,6 +30,12 @@
 
   ## Usage ##
   To use this project one must fill out the series of prompts through the terminal once you have already npm installed all required packages, npm test the test.js files to make sure the coding is in working order, and input node index.js to start the prompt. After including all employees and their basic contact information, an index.html file will be created with all of the input information. Their email addresses will link themselves to an empty email message with the contactee's to field already filled in, and/or their GitHub username will open up their GitHub profile if they are an engineer. It will also all be displayed clearly and in an appealing design once opened in the file explorer.
+  
+![NPM TEST](https://user-images.githubusercontent.com/119367684/222550288-be9442f5-07d4-44da-8f3f-d7996029dfdc.gif)
+
+![NODE INDEXJS](https://user-images.githubusercontent.com/119367684/222550351-771eb71f-6fbf-4a44-ae5a-b062429958a5.gif)
+
+![HTML FUNCTIONALITY](https://user-images.githubusercontent.com/119367684/222550427-30acd626-345a-416c-b6e6-3b0d4d5d9f52.gif)
 
   ## License ##
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
